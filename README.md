@@ -18,3 +18,5 @@ to achieve this: <br>
 
 This is a module from:
 Malignant Survivors (https://store.steampowered.com/app/2783610/Malignant_Survivors)
+
+*Max possible number is 999.999
