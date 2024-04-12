@@ -13,5 +13,5 @@ To draw 648, this code block
 
 draw the pixel color like this:
 ![](DamageNumbersInfo.jpg) <br>
-
 to achieve this:
+![](result.gif) <br>
