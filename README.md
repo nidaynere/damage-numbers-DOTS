@@ -14,7 +14,8 @@ To draw 648, this code block
 draw the pixel color like this:
 ![](DamageNumbersInfo.jpg) <br>
 to achieve this: <br>
-![](result.gif) ![](result2.gif)<br>
+![](result2.gif)<br>
+![](result.gif)<br>
 
 This is a module from:
 Malignant Survivors (https://store.steampowered.com/app/2783610/Malignant_Survivors)
